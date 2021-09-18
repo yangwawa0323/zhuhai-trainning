@@ -14,8 +14,6 @@
 
 ## jQuery
 
-## npm
-
 ## webpack
 
 ## vue
